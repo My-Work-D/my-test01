@@ -26,6 +26,24 @@ public class Example08 {
         System.out.println("Total is: " + total);
         System.out.println("===============");
         //
+
+        System.out.print("Input first name: ");
+        String firstName = input.nextLine();  // Read user input
+
+        // Ask the user for the second name
+        System.out.print("Input second name: ");
+        String secondName = input.nextLine();  // Read user input
+
+        // Concatenate the first name and second name
+        String fullName = firstName + " " + secondName;
+
+        // Output the full name
+        System.out.println("Full Name is: " + fullName);
+        System.out.println("===============");
+
+
+
+        //
         int h1, h2, h3;
 
         System.out.print("Input house 1 count: ");
