@@ -1,6 +1,6 @@
 public class ExampleD {
     public static void main(String args[]) {
-        System.out.println("2024/10/06-block \uD83D\uDE12\n \uD83D\uDE12\uD83D\uDC94 ");
+        System.out.println("2024/09/06-block \uD83D\uDE12\n \uD83D\uDE12\uD83D\uDC94 ");
         System.out.println("හිරු මැකී යයි නීල අහසේ සේද මීදුම් මායිමේ\n" +
                 "නිමාවී යයි මේ වසන්තේ\n" +
                 "යළිත් නොම ඒ කිසි දිනේ\n" +
@@ -32,5 +32,6 @@ public class ExampleD {
                 "රැගෙන මා සුබ පැතුම් හද තුටින් යනු මැනේ\n" +
                 "රැගෙන මා සුබ පැතුම් හද තුටින් යනු මැනේ\n" +
                 "රැගෙන මා සුබ පැතුම් හද තුටින් යනු මැනේ");
+        System.out.println("Sorry!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
     }
 }
